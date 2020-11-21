@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Additive_HDR_scrollBackGround
+  m_Shader: {fileID: -6465566751694194690, guid: d03e53f9588351e45976dc0cf0c8cf1d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2998
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_E608AFE7:
+        m_Texture: {fileID: 2800000, guid: f4e27fa5caa78874d97815967a73f3b9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_721BBF98: 0
+    - Vector1_9A325891: 0.838
+    - Vector1_BB7F8062: -0.55
+    - Vector1_C642DECA: 6
+    m_Colors:
+    - Color_9FA633DC: {r: 0.8301887, g: 0.51590425, b: 0.18405126, a: 0.89411765}
+    - Vector2_4E7AAA9D: {r: 0.03, g: 0.18, b: 0.7, a: 0}
+    - Vector2_9B0B97F7: {r: 0.06, g: 0.09, b: 0.06, a: 0.56}
